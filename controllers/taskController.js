@@ -1,4 +1,4 @@
-import { Task } from "../models/taskModel.js";
+import { Task } from "../models/taskmodel.js";
 import { User } from "../models/userModel.js";
 
 // create Task
