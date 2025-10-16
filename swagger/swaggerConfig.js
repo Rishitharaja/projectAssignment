@@ -13,7 +13,7 @@ const options = {
     servers: [
       { url: "http://localhost:8080", description: "Local Server" },
       {
-        url: "https://node-js-api-hg8u.onrender.com",
+        url: "https://projectassignment-radz.onrender.com",
         description: "Production Server",
       },
     ],
